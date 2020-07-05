@@ -2,5 +2,8 @@
 
 - 아래 책을 참고 해서 공부한 자료들 입니다. 
 
-![코틀린](https://user-images.githubusercontent.com/43588796/86234272-a04a3c00-bbd1-11ea-8ddf-654561d9d4f0.jpeg)
+
+<p align="center">
+  <img width="613" height="698" src="https://user-images.githubusercontent.com/43588796/86234272-a04a3c00-bbd1-11ea-8ddf-654561d9d4f0.jpeg">
+</p>
 
